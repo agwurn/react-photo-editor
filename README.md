@@ -8,5 +8,13 @@ This is a very simple photo editor, implemented with React, Material UI and fabr
 - fabric.js
 - Dropzone
 
+## Feature
+[x] upload image
+[] filters
+[] add text
+[] add gif
+[] download img
+[] draw
+
 ## Devlog
 20231215｜basic setup, upload image, easy filter
